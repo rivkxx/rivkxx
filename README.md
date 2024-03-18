@@ -2,5 +2,5 @@
 
 <img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: rivkxx's Visitor's Count" /></p> 
 
- <script src="https://tryhackme.com/badge/2903174"></script>
+ 
 
